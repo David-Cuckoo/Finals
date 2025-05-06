@@ -47,6 +47,9 @@ a {
     color: var(--black);
 }
 
+.a1 {
+    color: var(--white)
+}
 .grid-container {
     display: grid;
     grid-template-columns: 200px 1fr 300px;
